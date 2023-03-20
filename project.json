@@ -3,7 +3,9 @@
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.Cryptography.Activities": "[1.4.2]",
     "UiPath.Excel.Activities": "[2.18.0-preview]",
+    "UiPath.GSuite.Activities": "[2.0.3]",
     "UiPath.Mail.Activities": "[1.18.2]",
     "UiPath.System.Activities": "[23.2.0-preview]",
     "UiPath.Testing.Activities": "[23.2.0-preview]",
